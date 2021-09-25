@@ -1,0 +1,8 @@
+C:\Users\AJAVIER\source\repos\BooksAPI\BooksAPI\bin\Debug\BooksAPI.exe.config
+C:\Users\AJAVIER\source\repos\BooksAPI\BooksAPI\bin\Debug\BooksAPI.exe
+C:\Users\AJAVIER\source\repos\BooksAPI\BooksAPI\bin\Debug\BooksAPI.pdb
+C:\Users\AJAVIER\source\repos\BooksAPI\BooksAPI\obj\Debug\BooksAPI.Properties.Resources.resources
+C:\Users\AJAVIER\source\repos\BooksAPI\BooksAPI\obj\Debug\BooksAPI.csproj.GenerateResource.cache
+C:\Users\AJAVIER\source\repos\BooksAPI\BooksAPI\obj\Debug\BooksAPI.csproj.CoreCompileInputs.cache
+C:\Users\AJAVIER\source\repos\BooksAPI\BooksAPI\obj\Debug\BooksAPI.exe
+C:\Users\AJAVIER\source\repos\BooksAPI\BooksAPI\obj\Debug\BooksAPI.pdb
